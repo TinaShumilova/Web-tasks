@@ -11,7 +11,7 @@ function testButton() {
                     alert("Маловато будет!");
                     break;
                 case 5:
-                    alert("А чего так мтого?!");
+                    alert("А чего так много?!");
                     break;
                 default:
                     alert("Совсем не правильно :(")
